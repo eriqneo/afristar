@@ -10,6 +10,10 @@ body {
   background-color:white ;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .bg {
 background-image: url('../public/busi.jpg');
 background-size: cover;
